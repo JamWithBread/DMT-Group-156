@@ -1,4 +1,4 @@
-# Data Mining Techniques Spring 2022
+# Data Mining Techniques Projects
 
 ### Authors
 - Jeren Olsen
